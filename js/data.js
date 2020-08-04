@@ -8,7 +8,7 @@ export const data = [
     },
     styles: {
       left: 20,
-      top: 20
+      top: 25
     }
   },
   {

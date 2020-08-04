@@ -7,8 +7,8 @@ export const data = [
       path: 'assets/phone.png',
     },
     styles: {
-      left: 10,
-      top: 10
+      left: 20,
+      top: 20
     }
   },
   {
@@ -27,8 +27,8 @@ export const data = [
       path: 'assets/userpic.png',
     },
     styles: {
-      top: 10,
-      right: 10
+      top: 20,
+      right: 20
     }
   },
   {
@@ -37,7 +37,7 @@ export const data = [
       text: 'Say:',
     },
     styles: {
-      top: 120,
+      top: 150,
       horizontalCenter: true,
       textStyle: {
         fontFamily: 'Arial',

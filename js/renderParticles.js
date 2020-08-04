@@ -18,8 +18,8 @@ export const renderParticles = (app) => {
         minimumScaleMultiplier: 0.7
       },
       color: {
-        start: "#0069cc",
-        end: "#ff00d5"
+        start: '#0069cc',
+        end: '#ff00d5'
       },
       speed: {
         start: 220,
@@ -44,7 +44,7 @@ export const renderParticles = (app) => {
         min: 3,
         max: 5
       },
-      blendMode: "normal",
+      blendMode: 'normal',
       frequency: 0.03,
       emitterLifetime: 1.5,
       maxParticles: 300,
@@ -53,7 +53,7 @@ export const renderParticles = (app) => {
         y: app.screen.height / 2
       },
       addAtBack: true,
-      spawnType: "rect",
+      spawnType: 'rect',
       spawnRect: {
         x: -75,
         y: 150,

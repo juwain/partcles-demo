@@ -10,7 +10,7 @@ export const renderParticles = (app) => {
     {
       alpha: {
         start: 1,
-        end: 0
+        end: 0.2
       },
       scale: {
         start: 0.6,
@@ -41,7 +41,7 @@ export const renderParticles = (app) => {
         max: 0
       },
       lifetime: {
-        min: 2,
+        min: 3,
         max: 5
       },
       blendMode: "normal",
@@ -56,7 +56,7 @@ export const renderParticles = (app) => {
       spawnType: "rect",
       spawnRect: {
         x: -75,
-        y: 100,
+        y: 150,
         w: 150,
         h: 0
       }

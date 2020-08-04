@@ -5,5 +5,5 @@ export const OBJECT_TYPES = {
 
 export const CANVAS_SIZE = {
   width: 300,
-  height: 500
+  height: 600
 }
